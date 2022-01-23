@@ -43,5 +43,4 @@ string solution(vector<string> participant, vector<string> completion) {
         //if(c.second >=1) answer.push_back(c.first); // 이거 왜안돼..?
         if(c.second >= 1) return c.first;
     }
-
 }
